@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.naughty{
+    color:yellow;
+
+}
+.cold{
+    color: green;
+}
+.hot{
+    color: blue;
+}
+.nice{
+    color: crimson;
+}
+.lio{
+    color:indigo ;
+}
+.nonstop{
+    color: magenta;
+}
+section{
+    display: flex;
+}
+.baby{
+    width: 50%;
+    padding-left: 2%;
+}
+.baby img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    color: white;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
