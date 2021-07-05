@@ -24,7 +24,7 @@ h1{
 .nonstop{
     color: magenta;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 200px;
 }
@@ -51,4 +51,22 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.long gone{
+    color: maroon;
+}
+.before{
+    color: yellow;
+}
+.after{
+    color: greenyellow;
+}
+.class{
+    color: violet;
+}
+.how{
+    color: black;
+}
+.lost{
+    color: darkred;
 }
